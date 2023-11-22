@@ -1,0 +1,6 @@
+C:\Git\Repos\Tracker\TournamentTacker\TrackerLibrary\obj\x64\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerLibrary\obj\x64\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerLibrary\obj\x64\Debug\TrackerLibrary.dll
+C:\Git\Repos\Tracker\TournamentTacker\TrackerLibrary\obj\x64\Debug\TrackerLibrary.pdb
+C:\Git\Repos\Tracker\TrackerLibrary.dll
+C:\Git\Repos\Tracker\TrackerLibrary.pdb

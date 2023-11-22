@@ -1,0 +1,11 @@
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\bin\Debug\TrackerUi.exe.config
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\bin\Debug\TrackerUi.exe
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\bin\Debug\TrackerUi.pdb
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.csproj.AssemblyReference.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.csproj.SuggestedBindingRedirects.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.Properties.Resources.resources
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.TournamentViewer.resources
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.csproj.GenerateResource.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.csproj.CoreCompileInputs.cache
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.exe
+C:\Git\Repos\Tracker\TournamentTacker\TrackerUi\obj\Debug\TrackerUi.pdb
